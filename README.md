@@ -1,0 +1,1 @@
+This was a code demo game engine/gui layout system created using SDL originally on Windows and then moved over to Linux. Original compile and media assets went missing so I am working on recompiling them, also the original manual went missing. The code is put up for people who need a base engine or some ideas for coding in SDL or building a simple game.
